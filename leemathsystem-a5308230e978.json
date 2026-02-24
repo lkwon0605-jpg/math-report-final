@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "leemathsystem",
+  "private_key_id": "a5308230e97880e17ce69b082f43635677916e06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNO1ke0RhDas6E\nWT5wHumDJtgqteCkR1CmwkmsbzTZ7QK8PYEs/Tfq7bDgq3GxdZKR141YrnH1ESfn\n8vI24apA9dOzldMC4oKQN5jZdR3blYeyxAsc8wp3kezCz7u/OOBm7b01uKTUseId\nRWaR87+eJIX725CDljYyrn/vkPQOjMzhkLVQNhKysLEh9BgxoWxH4a/kIbAXowOA\nPuf/cBim1B83pfELBaSdtQLEziLpBvUeqGPHVgiHw0VJiCQbwRbprspklz3+JHkk\nkJXwWSdyxBF//RDBKlBu8AiHbWdsmK96v1Hz44CkV6axxmG/hbli7VcICmOuvn2w\nNbIx+GoDAgMBAAECggEAPvx7Zg9TLIGvnwPKu1tpXESELFuEdbajZIKVXNQGeumY\nINCZgAa47iOD2PgVHRsR4Cuw6ColtEpPHos71icc+vHXRrLxP13oJz3A7eBZSQaT\nzoQHSxu2Nys0aDecDdx1VnGZU87224Y6eLRPffS6dt0Lt9fTeucTfCt8/TfWB06X\nbskmkXRm2Zxwuz1ULMhAm+6qPCkbIy0OcXzeF7q4WslPYnPQPuITRhwvqfOtoKGw\niKnL2VSdRgJ4e1nm9ARUIJ+iGcnx4bnezBTiqz5azpRWckHJCgX+dMjVoWYnAxLT\n9+xXPe6zNcVxMwGZPMDYvasujVhuFAj5oT1jTzQjxQKBgQDojQKaKhkEAi7LY5/t\nE7+KEVYHQdoOdQtEEJmusGBd6RCe0O/B8bf+FoGfYYPOI04Wp/sEJKvECyWhWkwM\nJEWivdhUSHRaIAvC2wDBW5A09xw7N9ccBe99jEUgJXwgB98JlP8P8cwfrCZYXim+\nr7mqoWpqcOjQk6bH2UxZGOvtJQKBgQDh7SJxlpOTEiNwtzg04+bktjObG0QBrN/U\nex2TnhPsFJPkI5h5j2Z0dgmwRkkov9nBZS3Ah8JSWiO2/YEJPEDPCrD5qKTYRtln\nYdTUsA9tNHyHzRsgkxlEa4GrvPfIreSPJlWKLXFeYThgadZNqqehfoHOxNL2aIi3\n1CL6j6jWBwKBgGZnKb0vSoK8X1TK0vK33oFy7toVQmtZWROo57PIETdpWRtGUD2s\nLmRiDsRbUYole854PA3wA/85FWH+/DvggRWP2cILgcjqEaPFgoiixFa+dh0RktTR\nPEuhyBLGzujf7nQuuz6PMF7GFMCW/nTstqqPl+e1PqASVL/uTTNyyPlNAoGAJVIQ\n4IapNiBG7nW1uTb0i0910ud8InK2Ptlfl2UDkXoMvCENLPd9Szu8efwCVdLrW8Ek\n/6rtdMEjKTVTPX1Qj2MKvRMYuAlsHGHS0JeM1NNYxu4gzw69m8nOj9oVbHcdTHBe\nrQa4tYiF0ZdqKUZJjqnhM5Db8IxwGT3X0WAt2b0CgYEA04kJlVqilqzqHs++3hGM\nTjOPAHzebDoJs3N1ysorj6iXLq2vO0FAjEUBdFz7b225IXu1F7aDNEoUrOvSFxVO\n8+Uunw5yIKINbQQ9erPmSNfTNdyDImH/6PB2jWGwfL7tCeKHZes6UHKBi9EvwdT4\nfMvB434K2vJF+P9dP9eiS7o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "math-admin@leemathsystem.iam.gserviceaccount.com",
+  "client_id": "100893468019480475962",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/math-admin%40leemathsystem.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
